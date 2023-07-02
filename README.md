@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=abbas-dev-786" alt="abbas-dev-786" /> </a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Full stack Development**
 
 - 💬 Ask me about **React.js, Node.js,MongoDB,Express.js**
 
