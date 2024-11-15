@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/JammUtkarsh/jammutkarsh/main/github-banner.png)
+![MasterHead](https://img.notionusercontent.com/ext/https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fca%2F26%2F2e%2Fca262e0354eea311c41134c3e4bc3bc2.gif/size/?exp=1731691628&sig=IUaY9Zr0bWMyScsh18iTHagFMbvCMBqoQKMeOYn9vXg)
 
 # 💫 About Me:
 MERN Stack Developer: Bringing Your Web Development Dreams to Life with React, Node.js, and More!<br><br>🌱 I’m currently learning Full stack Development<br><br>💬 Ask me about React.js, Node.js,MongoDB,Express.js
